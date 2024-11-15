@@ -1,3 +1,3 @@
 # saysosays
-# sayso get em gone
+# enjoy your life
 It's a markdown file in this repository
